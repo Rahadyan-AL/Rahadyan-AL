@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-Hi there! I'm **Rahadyan AL F**, a **Fullstack Developer** who also dips into **UI/UX Design**. I enjoy building apps from scratch. Starting with the flow in Figma, all the way to writing that last line of code that (hopefully) runs without errors.😄
+Hi there! I'm **Rahadyan AL F**, people call me AL. I am a **Fullstack Developer** who also dips into **UI/UX Design**. I enjoy building apps from scratch. Starting with the flow in Figma, all the way to writing that last line of code that (hopefully) runs without errors.😄
 
 Currently focused on sharpening my **web & mobile development** skills, while continuing to grow on the design side so what I build doesn't just work, but feels good to use too.
 <br>
