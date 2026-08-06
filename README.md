@@ -149,7 +149,8 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 
 <br>
 
-<div align="center">
+## Meme 😁
+<div align="">
 
 <sub>Everytime i need to code something:</sub>
 
