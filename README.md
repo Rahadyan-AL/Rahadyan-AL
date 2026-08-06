@@ -52,7 +52,7 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 ## 🛠️ Tech Stack
 
 **Languages**
-
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -133,7 +133,7 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 
 <div align="center">
 
-<!-- TODO: this image only appears after you set up the GitHub Action below -->
+
 <img src="https://raw.githubusercontent.com/Rahadyan-AL/Rahadyan-AL/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
@@ -144,8 +144,8 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 
 <div align="center">
 
-<!-- TODO: replace with YOUR deployed spotify-github-profile widget URL, see setup notes -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31splmdfstn6tqduwwoe3qvnuirq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31splmdfstn6tqduwwoe3qvnuirq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
 
 </div>
 
