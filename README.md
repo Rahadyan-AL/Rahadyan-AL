@@ -159,6 +159,7 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 
 Everytime i need to code something:
 
+<p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWk1Z212NWFvdDlrYXBpMHI5d3NsZ29rZzA0c3Y5MWk3aTJxbWxiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif" width="200" />
 
 </div>
