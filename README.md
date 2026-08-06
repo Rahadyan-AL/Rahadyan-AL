@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Everytime i need to code something:
 ![e](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWk1Z212NWFvdDlrYXBpMHI5d3NsZ29rZzA0c3Y5MWk3aTJxbWxiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif)
-# Hi 👋, I'm Rahadyan Al F
+
 
 ### An experienced Typescript developer
 
