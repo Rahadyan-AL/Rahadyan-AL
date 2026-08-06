@@ -157,9 +157,19 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 ## Meme 😁
 <div>
 
-<h3>Everytime i need to code something:
+<table>
+<tr>
+<td valign="middle" width="50%">
 
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWk1Z212NWFvdDlrYXBpMHI5d3NsZ29rZzA0c3Y5MWk3aTJxbWxiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif" width="200" />
+### Everytime i need to code something:
+
+</td>
+<td valign="middle" width="50%">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWk1Z212NWFvdDlrYXBpMHI5d3NsZ29rZzA0c3Y5MWk3aTJxbWxiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif" width="250" />
+
+</td>
+</tr>
+</table>
 
 </div>
