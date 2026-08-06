@@ -145,7 +145,7 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 <div align="center">
 
 <!-- TODO: replace with YOUR deployed spotify-github-profile widget URL, see setup notes -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=false&bar_color=A78BFA&bar_color_cover=false" alt="Spotify" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31splmdfstn6tqduwwoe3qvnuirq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
 
 </div>
 
