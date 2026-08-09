@@ -73,11 +73,14 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Seaborn-4C9BB0?style=flat-square&logo=python&logoColor=white" />
 
 **Database & Backend**
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 
 **Design Tools**
 <p>
@@ -86,7 +89,9 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 
 **Productivity & Collaboration**
 <p align="left">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=FFD02F" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=FFD02F" />
+<img src="https://img.shields.io/badge/Whimsical-000000?style=flat-square&logo=whimsical&logoColor=white" />
 </p>
 
 **Tools & Deployment**
