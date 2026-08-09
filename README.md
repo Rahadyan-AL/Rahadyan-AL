@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/rahadyan_al/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/About%20Me-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxMmMyLjc2IDAgNS0yLjI0IDUtNXMtMi4yNC01LTUtNS01IDIuMjQtNSA1IDIuMjQgNSA1IDV6bTAgMi41Yy0zLjM0IDAtMTAgMS42OC0xMCA1djIuNWgyMHYtMi41YzAtMy4zMi02LjY2LTUtMTAtNXoiLz48L3N2Zz4=&logoColor=white" />
+<a href="#"> <!-- TODO: replace # with your portfolio link once it's live -->
 </a>
 
 <br>
@@ -56,7 +55,7 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOCA4aC0xVjZIM3Y4YTQgNCAwIDAgMCA0IDRoNmE0IDQgMCAwIDAgNC00di0yaDFhMiAyIDAgMCAwIDAtNHptMCA0aC0xVjloMWExIDEgMCAwIDEgMCAzek04IDNjLS41LjYtLjUgMS4yIDAgMk0xMSAzYy0uNS42LS41IDEuMiAwIDIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS4yIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white" />
 
@@ -73,8 +72,8 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Seaborn-4C9BB0?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjMiIHk9IjEyIiB3aWR0aD0iNCIgaGVpZ2h0PSI5Ii8+PHJlY3QgeD0iMTAiIHk9IjYiIHdpZHRoPSI0IiBoZWlnaHQ9IjE1Ii8+PHJlY3QgeD0iMTciIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8+PC9zdmc+&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C9BB0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDE4YzMtNiA1IDYgOCAwczUgNiA4IDBzNC05IDQtOSIvPjwvc3ZnPg==&logoColor=white" />
 
 **Database & Backend**
 <p>
