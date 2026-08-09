@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/rahadyan_al/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="#"> <!-- TODO: replace # with your portfolio link once it's live -->
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+<a href="#">
+  <img src="https://img.shields.io/badge/About%20Me-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxMmMyLjc2IDAgNS0yLjI0IDUtNXMtMi4yNC01LTUtNS01IDIuMjQtNSA1IDIuMjQgNSA1IDV6bTAgMi41Yy0zLjM0IDAtMTAgMS42OC0xMCA1djIuNWgyMHYtMi41YzAtMy4zMi02LjY2LTUtMTAtNXoiLz48L3N2Zz4=&logoColor=white" />
 </a>
 
 <br>
