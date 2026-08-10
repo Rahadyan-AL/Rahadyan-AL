@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://www.linkedin.com/in/rahadyan-al-farisi-a71a45381/">
+<a href="https://www.linkedin.com/in/rahadyan-al-farisi">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/rahadyan_al/">
