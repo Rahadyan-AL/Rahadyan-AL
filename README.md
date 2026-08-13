@@ -129,7 +129,7 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Rahadyan-AL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rahadyan-AL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=Rahadyan-AL&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
