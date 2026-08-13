@@ -130,7 +130,7 @@ Currently focused on sharpening my **web & mobile development** skills, while co
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Rahadyan-AL&theme=tokyonight&hide_border=true&background=0D1117" />
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
